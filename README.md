@@ -39,6 +39,6 @@ node server.js
 ### Example Output
 Here are two example outputs demonstrating the interaction with the chatbot:
 
- ![photo](IMG_5506.jpg)
-
  ![photo](IMG_5507.jpg)
+
+ ![photo](IMG_5506.jpg)
